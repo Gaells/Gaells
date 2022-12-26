@@ -1,8 +1,7 @@
 ### Olá, eu sou o Gabriel Chioquetta Obladen
 
-- Atualmente não trabalho na área de programação, mas estou em busca de possíveis vagas. 
-- Estou cursando a Faculdade de TADS( Análise e Desenvolvimento de Sistemas) na UFPR.
-- No momento estou aprendendo JavaScript e React.JS, já tenho um certo conhecimento sobre HTML e CSS.
+- Estou cursando o curso de TADS na UFPR.
+- Estou sempre em busca de aprender mais sobre a área e suas ferramentas. Aprendendo JavaScript e React, Python, SQL.
 - Você pode me contatar através do e-mail: gabriel.obladen@gmail.com
  
 <div align="center">
