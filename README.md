@@ -17,6 +17,7 @@
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Gab-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/![image](https://user-images.githubusercontent.com/105751499/235358895-db43aa40-fb6c-4b70-b96b-749dea1d3f79.png)">
 </div>
 
 ##
