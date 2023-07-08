@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel Chioquetta Obladen
 
-- Estou cursando o curso de TADS na UFPR.
+- Estou cursando TADS(Análise e Desenvolvimento de Sistemas) na UFPR.
 - Estou sempre em busca de aprender mais sobre a área e suas ferramentas. Aprendendo JavaScript e React, Python, SQL, Estrutura de Dados, etc
 - Você pode me contatar através do e-mail: gabriel.obladen@gmail.com
  
