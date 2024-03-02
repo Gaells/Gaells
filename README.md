@@ -1,16 +1,16 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Oi, Eu sou o Gabriel!! 👋
-### Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+## Hello, I´m Gabriel!! 👋
+### Welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Curitiba/PR, Brasil
-- ⚡ Apaixonado por Música e Tecnologia e Jogos
-- 🧠 Estudante de Análise e Desenvolvimento de Sistemas na UFPR
-- 🏦 Atualmente em busca de experiência como jr/estágiario.
+- 🔰  I´m from Curitiba/PR, Brazil
+- ⚡ Passionate about Music, Technology, and Games
+- 🧠 Student of Systems Analysis and Development at UFPR
+- 🏦 Currently seeking experience as a junior/intern.
 
 ##
 
-#### Estou aprendendo sobre:
+#### I am learning about:
 [<img height="48px" width="48px" alt="Icone Angular" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io)
 [<img height="48px" width="48px" alt="Icone java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/pt-BR/)
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -27,7 +27,7 @@
 
 ##
 
-#### Ferramentas que uso:
+#### Tools that i use:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
@@ -38,7 +38,7 @@
 
 ##
 
-#### Como entrar em contato comigo:
+#### Contact:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-chioquetta-7b6a131b6/)
 [<img alt="Mail to google Acount" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:gabriel.obladen@gmail.com)
 
