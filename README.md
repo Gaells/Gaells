@@ -16,7 +16,7 @@
 [<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="Icone React Native" src="https://skillicons.dev/icons?i=reactnative"/>](https://spring.io)
+[<img height="48px" width="48px" alt="Icone React Native" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone Angular" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io)
 [<img height="48px" width="48px" alt="Icone java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/pt-BR/)
