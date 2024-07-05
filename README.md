@@ -24,6 +24,7 @@
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
 [<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com)
 [<img height="48px" width="48px" alt="Icone Spring Boot" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io)
+[<img height="48px" width="48px" alt="Icone laravel" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.io)
 
 ##
 
