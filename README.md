@@ -36,20 +36,17 @@
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 
 ##
-
-#### Contato:
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-chioquetta-7b6a131b6/)
-[<img alt="Mail to google Acount" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:gabriel.obladen@gmail.com)
-
-##
-
 <div align="center">
   <a href="https://github.com/Gaells">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaells&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaells&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-   
-##
+
+
+#### Contato:
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-chioquetta-7b6a131b6/)
+[<img alt="Mail to google Acount" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:gabriel.obladen@gmail.com)
+
   
  
  
