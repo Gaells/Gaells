@@ -3,10 +3,11 @@
 ## Olá, eu sou o Gabriel e sou um Desenvolvedor FullStack!! 👋
 ### Bem vindo ao meu Perfil do GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰 Eu sou de Curitiba/PR, Brasil
-- ⚡ Apaixonado por Música, Técnologia e Jogos.
-- 🧠 Estou cursando a graduação de Análise e Desenvolvimento de Sistemas na UFPR
-- 🏦 Em busca de Novos Desafios.
+> [!NOTE]
+> - 🔰 Eu sou de Curitiba/PR, Brasil.
+> - ⚡ Apaixonado por Música, Técnologia e Jogos.
+> - 🧠 Estou cursando a graduação de Análise e Desenvolvimento de Sistemas na UFPR
+> - 🏦 Em busca de Novos Desafios.
 
 ##
 
@@ -18,13 +19,11 @@
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
 [<img height="48px" width="48px" alt="Icone React Native" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Icone Angular" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io)
 [<img height="48px" width="48px" alt="Icone java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/pt-BR/)
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
-[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
 
 
 ##
@@ -35,8 +34,6 @@
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
-[<img height="48px" width="48px" alt="Icone Adobe Ilustrator" src="https://skillicons.dev/icons?i=ai"/>](https://www.adobe.com/br/products/illustrator.html)
-[<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
 
 ##
 
