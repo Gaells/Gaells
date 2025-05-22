@@ -12,14 +12,15 @@
 ##
 
 #### Estou Aprendendo/tenho conhecimento:
-[<img height="48px" width="48px" alt="Icone php" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net)
-[<img height="48px" width="48px" alt="Icone laravel" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.io)
-[<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone Kotlin" src="https://skillicons.dev/icons?i=kotlin"/>]([https://pt-br.react.dev](https://kotlinlang.org))
+[<img height="48px" width="48px" alt="Icone Compose" src="https://skillicons.dev/icons?i=androidstudio"/>]([[https://pt-br.react.dev](https://kotlinlang.org](https://developer.android.com/compose)))
+[<img height="48px" width="48px" alt="Icone java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/pt-BR/)
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
 [<img height="48px" width="48px" alt="Icone React Native" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Icone java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/pt-BR/)
+[<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com)
+[<img height="48px" width="48px" alt="Icone java" src="https://skillicons.dev/icons?i=angular"/>]([https://www.java.com/pt-BR/](https://angular.dev))
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
