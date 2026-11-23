@@ -17,37 +17,7 @@ Into music, technology, and games.
 
 ### Tech stack
 
-**Frontend**
-
-[![](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind)](https://skillicons.dev)
-
-**Backend**
-
-[![](https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,java,spring)](https://skillicons.dev)
-
-**Cloud & DevOps**
-
-[![](https://skillicons.dev/icons?i=docker,aws,githubactions,git)](https://skillicons.dev)
-
-**Mobile**
-
-[![](https://skillicons.dev/icons?i=kotlin,androidstudio,react)](https://skillicons.dev)
-
-**Also**
-
-[![](https://skillicons.dev/icons?i=angular,js)](https://skillicons.dev)
-
----
-
-### Featured projects
-
-| Project | Description |
-| --- | --- |
-| [mcp-github-performance-review](https://github.com/Gaells/mcp-github-performance-review) | MCP server that analyzes contribution impact from GitHub activity |
-| [finforge](https://github.com/Gaells/finforge) | High-precision financial tools for FIRE planning and investment simulations |
-| [TecnoAging](https://github.com/Gaells/TecnoAging) | Software for health professionals supporting elderly care assessment |
-| [TicTacToe](https://github.com/Gaells/TicTacToe) | React Native + TypeScript game with AI opponent and 8-language i18n |
-| [Empresa.Aerea.BE.Fly](https://github.com/Gaells/Empresa.Aerea.BE.Fly) | Airline simulation: Spring Boot microservices + [Angular frontend](https://github.com/Gaells/Empresa.Aerea.FE.Fly) |
+[![](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python,fastapi,nodejs,postgres,java,spring,docker,aws,githubactions,git,kotlin,androidstudio,angular,js)](https://skillicons.dev)
 
 ---
 
