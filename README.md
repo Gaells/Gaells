@@ -17,7 +17,28 @@ Into music, technology, and games.
 
 ### Tech stack
 
-[![](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python,fastapi,nodejs,postgres,java,spring,docker,aws,githubactions,git,kotlin,androidstudio,angular,js)](https://skillicons.dev)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Frontend</b><br/>
+      <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,angular,js" alt="Frontend" />
+    </td>
+    <td width="50%" valign="top">
+      <b>Backend</b><br/>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,java,spring" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Cloud & DevOps</b><br/>
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git" alt="Cloud and DevOps" />
+    </td>
+    <td width="50%" valign="top">
+      <b>Mobile</b><br/>
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react" alt="Mobile" />
+    </td>
+  </tr>
+</table>
 
 ---
 
